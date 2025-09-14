@@ -147,11 +147,9 @@ Stock_Prediction/
 1. **Main Dashboard**  
    ![Dashboard Screenshot](./images/main_dashboard.png)  
 
-2. **Prediction View**  
-   ![Prediction Screenshot](./images/prediction.png)  
-
-3. **Signals & Insights**  
-   ![Signals Screenshot](./images/signals.png)  
+2. **Prediction View and Signals & Insights**   
+   ![Prediction Screenshot](./images/prediction.png)   
+    
 
 ---
 
