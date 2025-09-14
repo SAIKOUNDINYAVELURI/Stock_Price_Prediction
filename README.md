@@ -148,7 +148,7 @@ Stock_Prediction/
    ![Dashboard Screenshot](./images/main_dashboard.png)  
 
 2. **Prediction View and Signals & Insights**   
-   ![Prediction Screenshot](./images/prediction.png)   
+   ![Prediction Screenshot](images/prediction_and_signals.png)   
     
 
 ---
